@@ -1,0 +1,19 @@
+<html>
+<head><title>OB_github.io</title>
+<style>  
+header { 
+    background-color: #426D8F;
+    color: #CCCCCC;
+    padding: 50px;
+    font-size: 30px;
+    text-align: center;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <a href="/ObadiahBorms02.github.io/computer_build.html"> computer_build</a></br></br></br></br>
+    </header>
+        <a href="/ObadiahBorms02.github.io/bootstrap/startbootstrap-resume-gh-pages/index.html">end of year presentation</a>
+</body>
+</html>
